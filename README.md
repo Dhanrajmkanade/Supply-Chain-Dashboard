@@ -1,7 +1,5 @@
 # Supply Chain Analytics Dashboard
 
-![Dashboard Preview](images/dashboard-preview.png) *(Optional: Add screenshot image)*
-
 ## Overview
 This Power BI dashboard provides comprehensive visibility into supply chain operations, analyzing product performance, supplier efficiency, logistics optimization, and customer preferences. The interactive visualizations help identify bottlenecks, optimize inventory, and improve profitability across the supply chain.
 
